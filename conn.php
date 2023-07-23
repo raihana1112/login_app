@@ -1,5 +1,5 @@
 <?php 
-$connect = new mysqli("localhost","root","","bebas-pustaka-puswil");
+$connect = new mysqli("localhost","root","","pas");
 if($connect){
 }else{
 	echo "Connection Failed";
